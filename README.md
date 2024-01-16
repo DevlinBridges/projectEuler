@@ -1,4 +1,4 @@
-title at the top
+projectEuler
 ===
 git push -u origin master
 
